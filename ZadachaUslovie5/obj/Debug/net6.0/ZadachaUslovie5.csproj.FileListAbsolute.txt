@@ -1,0 +1,15 @@
+C:\Users\katek\source\c#\ZadachaUslovie5\bin\Debug\net6.0\ZadachaUslovie5.exe
+C:\Users\katek\source\c#\ZadachaUslovie5\bin\Debug\net6.0\ZadachaUslovie5.deps.json
+C:\Users\katek\source\c#\ZadachaUslovie5\bin\Debug\net6.0\ZadachaUslovie5.runtimeconfig.json
+C:\Users\katek\source\c#\ZadachaUslovie5\bin\Debug\net6.0\ZadachaUslovie5.dll
+C:\Users\katek\source\c#\ZadachaUslovie5\bin\Debug\net6.0\ZadachaUslovie5.pdb
+C:\Users\katek\source\c#\ZadachaUslovie5\obj\Debug\net6.0\ZadachaUslovie5.csproj.AssemblyReference.cache
+C:\Users\katek\source\c#\ZadachaUslovie5\obj\Debug\net6.0\ZadachaUslovie5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katek\source\c#\ZadachaUslovie5\obj\Debug\net6.0\ZadachaUslovie5.AssemblyInfoInputs.cache
+C:\Users\katek\source\c#\ZadachaUslovie5\obj\Debug\net6.0\ZadachaUslovie5.AssemblyInfo.cs
+C:\Users\katek\source\c#\ZadachaUslovie5\obj\Debug\net6.0\ZadachaUslovie5.csproj.CoreCompileInputs.cache
+C:\Users\katek\source\c#\ZadachaUslovie5\obj\Debug\net6.0\ZadachaUslovie5.dll
+C:\Users\katek\source\c#\ZadachaUslovie5\obj\Debug\net6.0\refint\ZadachaUslovie5.dll
+C:\Users\katek\source\c#\ZadachaUslovie5\obj\Debug\net6.0\ZadachaUslovie5.pdb
+C:\Users\katek\source\c#\ZadachaUslovie5\obj\Debug\net6.0\ZadachaUslovie5.genruntimeconfig.cache
+C:\Users\katek\source\c#\ZadachaUslovie5\obj\Debug\net6.0\ref\ZadachaUslovie5.dll

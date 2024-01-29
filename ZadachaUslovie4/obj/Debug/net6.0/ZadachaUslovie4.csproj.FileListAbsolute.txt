@@ -1,0 +1,15 @@
+C:\Users\katek\source\c#\ZadachaUslovie4\bin\Debug\net6.0\ZadachaUslovie4.exe
+C:\Users\katek\source\c#\ZadachaUslovie4\bin\Debug\net6.0\ZadachaUslovie4.deps.json
+C:\Users\katek\source\c#\ZadachaUslovie4\bin\Debug\net6.0\ZadachaUslovie4.runtimeconfig.json
+C:\Users\katek\source\c#\ZadachaUslovie4\bin\Debug\net6.0\ZadachaUslovie4.dll
+C:\Users\katek\source\c#\ZadachaUslovie4\bin\Debug\net6.0\ZadachaUslovie4.pdb
+C:\Users\katek\source\c#\ZadachaUslovie4\obj\Debug\net6.0\ZadachaUslovie4.csproj.AssemblyReference.cache
+C:\Users\katek\source\c#\ZadachaUslovie4\obj\Debug\net6.0\ZadachaUslovie4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katek\source\c#\ZadachaUslovie4\obj\Debug\net6.0\ZadachaUslovie4.AssemblyInfoInputs.cache
+C:\Users\katek\source\c#\ZadachaUslovie4\obj\Debug\net6.0\ZadachaUslovie4.AssemblyInfo.cs
+C:\Users\katek\source\c#\ZadachaUslovie4\obj\Debug\net6.0\ZadachaUslovie4.csproj.CoreCompileInputs.cache
+C:\Users\katek\source\c#\ZadachaUslovie4\obj\Debug\net6.0\ZadachaUslovie4.dll
+C:\Users\katek\source\c#\ZadachaUslovie4\obj\Debug\net6.0\refint\ZadachaUslovie4.dll
+C:\Users\katek\source\c#\ZadachaUslovie4\obj\Debug\net6.0\ZadachaUslovie4.pdb
+C:\Users\katek\source\c#\ZadachaUslovie4\obj\Debug\net6.0\ZadachaUslovie4.genruntimeconfig.cache
+C:\Users\katek\source\c#\ZadachaUslovie4\obj\Debug\net6.0\ref\ZadachaUslovie4.dll
