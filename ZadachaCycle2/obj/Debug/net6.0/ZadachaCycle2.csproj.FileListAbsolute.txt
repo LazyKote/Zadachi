@@ -1,0 +1,15 @@
+C:\Users\katek\source\c#\ZadachaCycle2\bin\Debug\net6.0\ZadachaCycle2.exe
+C:\Users\katek\source\c#\ZadachaCycle2\bin\Debug\net6.0\ZadachaCycle2.deps.json
+C:\Users\katek\source\c#\ZadachaCycle2\bin\Debug\net6.0\ZadachaCycle2.runtimeconfig.json
+C:\Users\katek\source\c#\ZadachaCycle2\bin\Debug\net6.0\ZadachaCycle2.dll
+C:\Users\katek\source\c#\ZadachaCycle2\bin\Debug\net6.0\ZadachaCycle2.pdb
+C:\Users\katek\source\c#\ZadachaCycle2\obj\Debug\net6.0\ZadachaCycle2.csproj.AssemblyReference.cache
+C:\Users\katek\source\c#\ZadachaCycle2\obj\Debug\net6.0\ZadachaCycle2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katek\source\c#\ZadachaCycle2\obj\Debug\net6.0\ZadachaCycle2.AssemblyInfoInputs.cache
+C:\Users\katek\source\c#\ZadachaCycle2\obj\Debug\net6.0\ZadachaCycle2.AssemblyInfo.cs
+C:\Users\katek\source\c#\ZadachaCycle2\obj\Debug\net6.0\ZadachaCycle2.csproj.CoreCompileInputs.cache
+C:\Users\katek\source\c#\ZadachaCycle2\obj\Debug\net6.0\ZadachaCycle2.dll
+C:\Users\katek\source\c#\ZadachaCycle2\obj\Debug\net6.0\refint\ZadachaCycle2.dll
+C:\Users\katek\source\c#\ZadachaCycle2\obj\Debug\net6.0\ZadachaCycle2.pdb
+C:\Users\katek\source\c#\ZadachaCycle2\obj\Debug\net6.0\ZadachaCycle2.genruntimeconfig.cache
+C:\Users\katek\source\c#\ZadachaCycle2\obj\Debug\net6.0\ref\ZadachaCycle2.dll
